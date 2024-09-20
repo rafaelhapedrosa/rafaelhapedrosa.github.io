@@ -11,36 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neuroscience, Donders Institute, 2018-2022
+* M.Sc. in Neuroscience, Brain Institute, Brazil 2016-2018
+* B.Sc. in Science and Technology, Federal University of Rio Grande do Norte, Brazil 2012-2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since 2022: Postdoctoral Researcher
+  * Department of Neuroscience, Physiology and Pharmacology - University College London, United Kingdom
+  * Supervisor: Francesca Cacucci
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: Postdoctoral Researcher
+  * Department of Physiology, Development and Neuroscience - University of Cambridge, United Kingdom
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2018-2022: Ph.D. candidate
+  * Donders Institute - Radboud University, The Netherlands
+  * Supervisor: Francesco Battaglia
+
+* 2016-2018: M.Sc. candidate
+  * Brain Institute - Federal University of Rio Grande do Norte, Brazil
+  * Supervisor: Adriano Tort & Hindiael Belchior
+
+* 2012-2015: Research Assistant
+  * Automation and Robotics Laboratory - Federal University of Rio Grande do Norte, Brazil
+  * Supervisor: Luiz Eduardo
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Software
+  * Matlab, Python, C#, C++, CNC, Embedded System (ex: Raspberry PI, Arduino and etc), Fusion 360, Solidworks
+* Signal processing
+  * Neural data (EEG, ECoG, LFP, spike data, imaging), eye tracker, accelerometer, gyroscope, heart rate variability (HRV), position tracking
+* Data science
+  * Machine-learning, data analysis, data processing and visualization
+* Hardware development
+  * microdrives for neural implants, mesoscopic optical imaging, setups for experiments (Linear track, treadmill, EEG system, sleep deprivation box, 3D eye tracking system)
+* Academic research
+  * Data collection (Neuropixel, Widefield imaging, brain stimulation, behavioral tasks), neurosurgeries in rodents, sleep scoring, team management, scientific writing, public speaking
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +67,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Marie Skłodowska-Curie ITN Fellowship,
+2018, M-GATE Project.
+
+* BNI Regional Network, 2017.
