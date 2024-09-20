@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-22
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'PNAS'
+slidesurl: 'https://www.pnas.org/doi/10.1073/pnas.2204959119'
+paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2204959119'
 citation: 'Pedrosa, R. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
