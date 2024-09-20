@@ -22,7 +22,7 @@ For an updated list of publications see my [Google Scholar profile](https://scho
 [[pdf]](http://inesCompleto.github.io/files/ijms-23-06814 (10).pdf)
 [[journal]](https://www.mdpi.com/1422-0067/23/12/6814)
 
-A. Furtunato*, **R. Pedrosa***, B. Lobao, A. Tort, H. Belchior. *Hippocampal delta oscillations entrain neuronal activity, modulate gamma amplitude and convey information about running speed on a treadmill*, Biorxiv (2022)<br>
+A. Furtunato', **R. Pedrosa'**, B. Lobao, A. Tort, H. Belchior. *Hippocampal delta oscillations entrain neuronal activity, modulate gamma amplitude and convey information about running speed on a treadmill*, Biorxiv (2022)<br>
 [[biorxiv]](https://www.biorxiv.org/content/10.1101/2022.01.24.477542v1.abstract)
 
 A. Souza, B. Koike, **R. Pedrosa**, C. Queiroz, A. Tort, S. Ribeiro. *Recording Day and Night: Advice for New Investigators in the Sleep and Memory Field*, Elsevier (2018)<br>
