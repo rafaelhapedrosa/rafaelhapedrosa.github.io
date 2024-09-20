@@ -3,7 +3,7 @@ title: "Hippocampal gamma and sharp wave/ripples mediate bidirectional interacti
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'During sleep, brain is bustling with activity: Different brain structures such as the hippocampus and the cortex interact, and this interplay is thought to be important to stabilize and reprocess memories, in the so-called systems consolidation. We show that during nonrapid eye movement sleep, cortical activity organizes in transient bursts of widely varying size, with a dynamic that may help remote areas communicate with one another. With a data-driven analysis of activity transients we identified three functional networks, one of which, namely the default mode network, most actively interacts with the hippocampus. This interaction is bidirectional and involves multiple patterns of hippocampal activity. We speculate that this information exchange loop subserves complex computational operations that are key to memory functionality.'
 date: 2022-09-22
 venue: 'PNAS'
 slidesurl: 'https://www.pnas.org/doi/10.1073/pnas.2204959119'
