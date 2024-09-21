@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael H. A. Pedrosa"
+title                    : "Rafael Pedrosa"
 title_separator          : "-"
 name                     : &name "Rafael H. A. Pedrosa"
 description              : &description "postdoc @ UCL" 
@@ -83,7 +83,7 @@ author:
   name             : "Rafael H. A. Pedrosa"
   avatar           : "profile.jpeg"
   bio              : "Neuroscientist working at UCL"
-  location         : "London/UK" :uk:
+  location         : "London/UK 🇬🇧"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=KakzNtMAAAAJ&hl=pt-BR#"
