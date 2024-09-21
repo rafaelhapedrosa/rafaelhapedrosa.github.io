@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rafael Pedrosa"
 title_separator          : "-"
-name                     : &name "Rafael H. A. Pedrosa"
+name                     : &name "Rafael Pedrosa"
 description              : &description "postdoc @ UCL" 
 url                      : https://rafaelhapedrosa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
