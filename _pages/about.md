@@ -12,3 +12,6 @@ I am a neuroscientist 🧠 with 10+ years in **memory, sleep and neurotech**. I 
 In general, my work integrates advanced data analysis, machine learning, and innovative hardware development to uncover insights into sleep and memory processes. 
 
 In my free time, I like to spend time with family and friends, playing music, reading and watching my football teams Flamengo and ABC/RN.
+
+
+![1672172167043](https://github.com/user-attachments/assets/405ef19c-edfe-4c35-a242-5a40e7cb7a6d)
