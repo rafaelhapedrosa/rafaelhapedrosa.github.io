@@ -49,23 +49,11 @@ Skills
 * Academic research
   * Data collection (Neuropixel, Widefield imaging, brain stimulation, behavioral tasks), neurosurgeries in rodents, sleep scoring, team management, scientific writing, public speaking
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Coding in MATLAB (Master level) — Radboud University
+* Neuronal signal (Undergraduate level) - UFRN
+* Supervision of undergraduate, master and PhD students
   
 Grants & Awards
 ======
