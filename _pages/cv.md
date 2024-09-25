@@ -43,7 +43,7 @@ Skills
 * Signal processing
   * Neural data (EEG, ECoG, LFP, spike data, imaging), eye tracker, accelerometer, gyroscope, heart rate variability (HRV), position tracking
 * Data science
-  * Machine-learning, data analysis, data processing and visualization
+  * Machine-learning, computational modeling, data analysis, data processing and visualization
 * Hardware development
   * microdrives for neural implants, mesoscopic optical imaging, setups for experiments (Linear track, treadmill, EEG system, sleep deprivation box, 3D eye tracking system)
 * Academic research
