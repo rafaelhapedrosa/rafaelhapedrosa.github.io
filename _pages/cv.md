@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neuroscience, Donders Institute, 2018-2022
+* Ph.D in Computational Neuroscience, Donders Institute, 2018-2022
 * M.Sc. in Neuroscience, Brain Institute, Brazil 2016-2018
 * B.Sc. in Science and Technology, Federal University of Rio Grande do Norte, Brazil 2012-2016
 
